@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋! I'm Asad Aslam.
 
-<!--
-**asadaslamkhan/asadaslamkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Frontend Developer and UI/UX Designer from Pakistan.
 
-Here are some ideas to get you started:
+## 📞 Contact me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/asad-aslam-2693022b5/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:your.email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/asadaslam8575?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I'm Asad Aslam from Swat, Pakistan.
+
+- 🌐 I'm working as a front-end web developer.
+- 🔭 Currently learning the Reactjs.
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, tailblock, javascript, Reactjs**.
+- 📂 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/asad-aslam-2693022b5/).
+- ✉️ Reach me at asadaslamkhan53@gmail.com
+
+
