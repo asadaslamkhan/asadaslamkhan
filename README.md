@@ -1,6 +1,6 @@
 # Hi 👋! I'm Asad Aslam.
 
-A Frontend Developer and UI/UX Designer from Pakistan.
+A UI/UX Enthusiast & Frontend Developer from Pakistan.
 
 ## 📞 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/asad-aslam-2693022b5/)
