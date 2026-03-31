@@ -8,7 +8,7 @@ A UI/UX Enthusiast & Frontend Developer from Pakistan.
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/asadaslam8575?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ## 👨‍💻 About Me
-I'm Asad Aslam from Swat, Pakistan.
+I'm Asad Aslam from Swat, Pakistan. Currently in Islamabad.
 
 - 🌐 I'm Working as a UI/UX Designing And Front-End Web Developer.
 - 🔭 Currently learning Reactjs.
