@@ -10,7 +10,7 @@ A UI/UX Enthusiast & Frontend Developer from Pakistan.
 ## 👨‍💻 About Me
 I'm Asad Aslam from Swat, Pakistan.
 
-- 🌐 I'm working as a front-end web developer and UI/UX Designer.
+- 🌐 I'm Working as a UI/UX Designing And Front-End Web Developer.
 - 🔭 Currently learning Reactjs.
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, tailblock, javascript, Reactjs**.
 - 📂 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/asad-aslam-9aa421344/).
